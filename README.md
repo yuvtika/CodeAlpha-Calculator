@@ -14,11 +14,11 @@ Access the live deployment of the CalcPro Calculator here:
 
 ### 1. Default State
 The default view displaying the glassmorphic card interface, glowing animated background orbs, utility/numerical grids, and a keyboard support reminder.
-![Default State](images/screenshot_default.png)
+![Default State](screenshot_default.png)
 
 ### 2. Calculated State
 An active calculation demonstrating expression tracking, localized thousand separators, and formatted results.
-![Calculated State](images/screenshot_calculated.png)
+![Calculated State](screenshot_calculated.png)
 
 ---
 
